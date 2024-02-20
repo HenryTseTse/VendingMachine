@@ -1,0 +1,11 @@
+.NavBar {
+    padding: 0 10px 0 10px;
+  }
+
+.NavBar a {
+    color: black;
+  }
+  
+.NavBar a.active {
+    color: white;
+  }
